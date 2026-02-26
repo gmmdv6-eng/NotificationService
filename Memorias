@@ -1,0 +1,8 @@
+Memorias del proyecto
+Refactorización completada el 26/02/2026.
+
+        Cambio de nombres a inglés (Clean Code).
+
+        Extracción de lógica de envío a métodos privados.
+
+        Gestión de versiones mediante Git y SSH.
