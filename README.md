@@ -3,9 +3,8 @@
 Este proyecto consiste en la refactorización y documentación de un módulo de notificaciones siguiendo los principios de Clean Code.
 
 ## 👥 Miembros del Grupo
-* **Nombre Apellido 1** - [Rol: Configuración Git y JavaDoc]
-* **Nombre Apellido 2** - [Rol: Refactorización de nombres y métodos]
-* **Nombre Apellido 3** - [Rol: Implementación de Polimorfismo]
+* **Gabriel Martín-Mulas de Vicente 1**
+* **Samuel Rincón 2**
 
 ## 🛠️ Configuración del Repositorio
 * **Rama Principal:** `master` (protegida con Pull Request).
