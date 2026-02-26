@@ -3,8 +3,8 @@
 Este proyecto consiste en la refactorización y documentación de un módulo de notificaciones siguiendo los principios de Clean Code.
 
 ## 👥 Miembros del Grupo
-* **Gabriel Martín-Mulas de Vicente 1**
-* **Samuel Rincón 2**
+* **Gabriel Martín-Mulas de Vicente **
+* **Samuel Rincón **
 
 ## 🛠️ Configuración del Repositorio
 * **Rama Principal:** `master` (protegida con Pull Request).
